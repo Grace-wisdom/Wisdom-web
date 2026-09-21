@@ -1,5 +1,5 @@
 import heroImg1 from "../assets/entrance.png";
-import heroImg2 from "../assets/computerLab.png";
+import heroImg2 from "../assets/ComputerLab.png";
 import heroImg3 from "../assets/chemistryLab.png";
 import heroImg4 from "../assets/homepage1.png";
 import heroImg5 from "../assets/rainbow.png";
