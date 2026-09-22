@@ -14,6 +14,7 @@ export default function Navbar({ onOpenAdmission }) {
     { label: "Gallery", href: "#gallery" },
     { label: "Testimonials", href: "#testimonials" },
     { label: "FAQ", href: "#faq" },
+    { label: "Location", href: "#location" },
     { label: "Contact", href: "#contact" },
   ];
 

@@ -13,6 +13,7 @@ import Testimonials from "../components/Testimonials";
 import AdmissionSteps from "../components/AdmissionSteps";
 import FAQ from "../components/FAQ";
 import CTA from "../components/CTA";
+import Location from "../components/Location";
 import Footer from "../components/Footer";
 import AdmissionModal from "../components/AdmissionModal";
 import FloatingActions from "../components/FloatingActions";
@@ -65,6 +66,9 @@ export default function Home() {
 
       {/* Frequently Asked Questions */}
       <FAQ onOpenAdmission={handleOpenAdmission} />
+
+      {/* Campus Location & Interactive Map */}
+      <Location onOpenAdmission={handleOpenAdmission} />
 
       {/* Call to Action Banner */}
       <CTA onOpenAdmission={handleOpenAdmission} />

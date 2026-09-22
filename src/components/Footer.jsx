@@ -10,6 +10,7 @@ export default function Footer({ onOpenAdmission }) {
     { label: "Campus Gallery", href: "#gallery" },
     { label: "Parent Reviews", href: "#testimonials" },
     { label: "Admissions & FAQ", href: "#faq" },
+    { label: "Campus Location & Map", href: "#location" },
   ];
 
   const academicStreams = [
