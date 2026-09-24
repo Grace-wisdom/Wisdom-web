@@ -4,10 +4,12 @@ import heroImg3 from "../assets/chemistryLab.png";
 import heroImg4 from "../assets/homepage1.png";
 import heroImg5 from "../assets/rainbow.png";
 import heroImg6 from "../assets/campus.png";
+import heroImg7 from "../assets/bharatham.jpg";
+import heroImg8 from "../assets/dance.jpg";
 import { Award, Star, CheckCircle, MapPin, GraduationCap, Trophy, Users } from "lucide-react";
 import { useEffect, useState } from "react";
 
-const HERO_IMAGES = [heroImg1, heroImg2, heroImg3, heroImg4, heroImg5, heroImg6];
+const HERO_IMAGES = [heroImg1, heroImg2, heroImg3, heroImg4, heroImg5, heroImg6, heroImg7, heroImg8];
 const SLIDE_DURATION = 5000; // 5 seconds per image
 const CYCLING_WORDS = ["Excellence", "Character", "Leadership", "Innovation", "Success"];
 
