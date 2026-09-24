@@ -5,7 +5,7 @@ import campus from "../assets/campus.png";
 import homepage1 from "../assets/homepage1.png";
 import computerLab from "../assets/ComputerLab.png";
 import chemistryLab from "../assets/chemistryLab.png";
-import bharatham from "../assets/bharatham.JPG";
+import bharatham from "../assets/bharatham.jpg";
 import dance from "../assets/dance.JPG";
 import traditional from "../assets/traditional.jpeg";
 import rainbow from "../assets/rainbow.png";
