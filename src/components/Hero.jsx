@@ -5,7 +5,7 @@ import heroImg4 from "../assets/homepage1.png";
 import heroImg5 from "../assets/rainbow.png";
 import heroImg6 from "../assets/campus.png";
 import heroImg7 from "../assets/bharatham.jpg";
-import heroImg8 from "../assets/dance.jpg";
+import heroImg8 from "../assets/dance.JPG";
 import { Award, Star, CheckCircle, MapPin, GraduationCap, Trophy, Users } from "lucide-react";
 import { useEffect, useState } from "react";
 
